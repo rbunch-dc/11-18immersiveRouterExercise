@@ -5,3 +5,7 @@
 .main{
   margin-top: 100px;
 }
+
+.active{
+  background-color: #e964dd;
+}
